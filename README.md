@@ -1,5 +1,6 @@
 # Cryptocurrency React app
 Simple Cryptocurrency price tracker made with React :heart:
+[Here's the what it looks like](https://johnleoclaudio.github.io/crypto-ticker-app/)
 
 ## Getting Started
 
