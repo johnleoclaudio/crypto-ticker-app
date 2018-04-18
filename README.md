@@ -25,6 +25,8 @@ npm install
 ```
 Lastly,
 ```
-# Please make sure port 3000 is available :blush:
+# Please make sure port 3000 is available
 npm start
 ```
+
+## Feel free to use it :blush:
