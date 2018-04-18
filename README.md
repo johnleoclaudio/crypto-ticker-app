@@ -9,7 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 Node
-create-react-app NPM package
 ```
 
 ### Installing
