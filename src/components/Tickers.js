@@ -31,7 +31,7 @@ class Tickers extends Component {
     }
 
     fetchCryptocurrencyData() {
-        axios.get("https://api.coinmarketcap.com/v1/ticker/?limit=10")
+        axios.get("https://cors-anywhere.herokuapp.com/https://api.coinmarketcap.com/v1/ticker/?limit=10")
             .then( response => {
                 const wanted = ['bitcoin', 'ethereum', 'litecoin'];
                 const result = response.data.filter( currency => wanted.includes(currency.id));
